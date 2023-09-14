@@ -1,0 +1,3 @@
+Name: Vipul Singh
+Skills: HTML, CSS, JS, Reactjs, BootStrap, DBMS, OOPS, Asp.net
+Email: vipulsingh1025@gmail.com
